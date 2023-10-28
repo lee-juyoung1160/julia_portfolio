@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/julia_portfolio/static/css/main.f1f4164d.css",
-    "main.js": "/julia_portfolio/static/js/main.9ea7b3e7.js",
+    "main.css": "/julia_portfolio/static/css/main.c8f88159.css",
+    "main.js": "/julia_portfolio/static/js/main.dd5a06d8.js",
     "static/media/work3.jpg": "/julia_portfolio/static/media/work3.25deab3db86e25725334.jpg",
     "static/media/work8.jpg": "/julia_portfolio/static/media/work8.ca3b39b3d42c954a6767.jpg",
     "static/media/work6.jpg": "/julia_portfolio/static/media/work6.b72c984c407f416acd05.jpg",
@@ -9,11 +9,11 @@
     "static/media/work5.jpg": "/julia_portfolio/static/media/work5.55cd2585b5e7aab4d2e2.jpg",
     "static/media/work1.jpg": "/julia_portfolio/static/media/work1.7fab8a861e848393a998.jpg",
     "index.html": "/julia_portfolio/index.html",
-    "main.f1f4164d.css.map": "/julia_portfolio/static/css/main.f1f4164d.css.map",
-    "main.9ea7b3e7.js.map": "/julia_portfolio/static/js/main.9ea7b3e7.js.map"
+    "main.c8f88159.css.map": "/julia_portfolio/static/css/main.c8f88159.css.map",
+    "main.dd5a06d8.js.map": "/julia_portfolio/static/js/main.dd5a06d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1f4164d.css",
-    "static/js/main.9ea7b3e7.js"
+    "static/css/main.c8f88159.css",
+    "static/js/main.dd5a06d8.js"
   ]
 }
